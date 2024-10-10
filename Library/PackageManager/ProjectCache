@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: /Applications/Document/Learning Unity/UNITY INTERACT/Lesson 5/Packages
-m_EditorVersion: 2022.3.49f1 (4dae1bb8668d)
+m_EditorVersion: 2022.3.50f1 (c3db7f8bf9b1)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.5.2
   testable: 0
@@ -120,7 +120,6 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     compatible:
-    - 2.5.1
     - 2.5.2
     recommended: 2.5.2
     deprecated: []
@@ -160,7 +159,7 @@ m_ResolvedPackages:
     revision: c402e6396d3ea20ecb2d59eac908e7e0a30cd7e6
     path: 
   unityLifecycle:
-    version: 2.5.1
+    version: 2.5.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3514,4 +3513,4 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-m_BuiltInPackagesHash: 18abebf992abed78bcc43646c5fadb58f08f573b
+m_BuiltInPackagesHash: 695df91cfe372475949cf6e3bda1d90869efdd8a
